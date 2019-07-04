@@ -3,7 +3,7 @@ package com.linzi.study.factory;
 /**
  * com.mytongche.uc.factory.FactoryTest
  *
- * @Description:
+ * @Description: 简单工厂测试
  * @Version: 1.0
  * @author: linzi
  * @date: 2019-07-03

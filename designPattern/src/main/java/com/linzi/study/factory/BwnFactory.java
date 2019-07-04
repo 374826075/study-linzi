@@ -3,7 +3,7 @@ package com.linzi.study.factory;
 /**
  * com.mytongche.uc.factory.BwnFactory
  *
- * @Description:
+ * @Description: 宝马工厂
  * @Version: 1.0
  * @author: linzi
  * @date: 2019-07-03

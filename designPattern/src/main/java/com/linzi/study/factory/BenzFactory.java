@@ -3,7 +3,7 @@ package com.linzi.study.factory;
 /**
  * com.mytongche.uc.factory.BenzFactory
  *
- * @Description:
+ * @Description: 奔驰工厂
  * @Version: 1.0
  * @author: linzi
  * @date: 2019-07-03
