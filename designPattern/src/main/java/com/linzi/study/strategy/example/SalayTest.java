@@ -11,9 +11,9 @@ package com.linzi.study.strategy.example;
 public class SalayTest {
     public static void main(String[] args) {
         SalaryTemplate salaryTemplate = new SalaryTemplate();
-        salaryTemplate.setTax(new XianTax());
-        salaryTemplate.setBonus(new XianBonus());
-        salaryTemplate.setSalary(new XianSalary());
+        salaryTemplate.setTax(new ShanghaiTax());
+        salaryTemplate.setBonus(new ShanghaiBonus());
+        salaryTemplate.setSalary(new ShanghaiSalary());
         salaryTemplate.computer();
     }
 }
