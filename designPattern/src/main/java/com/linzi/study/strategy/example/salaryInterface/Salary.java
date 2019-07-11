@@ -9,6 +9,8 @@ package com.linzi.study.strategy.example.salaryInterface;
  * @date: 2019-07-04
  */
 public interface Salary {
-    //计算基本工资
+    /**
+     * 计算基本工资
+     */
     public void computerSalary();
 }

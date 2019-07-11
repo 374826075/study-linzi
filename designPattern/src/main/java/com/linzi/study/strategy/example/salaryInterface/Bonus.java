@@ -9,6 +9,8 @@ package com.linzi.study.strategy.example.salaryInterface;
  * @date: 2019-07-04
  */
 public interface Bonus {
-    //计算奖金
+    /**
+     * 计算奖金
+     */
     public void computerBonus () ;
 }

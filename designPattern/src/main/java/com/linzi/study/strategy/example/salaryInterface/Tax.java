@@ -9,6 +9,8 @@ package com.linzi.study.strategy.example.salaryInterface;
  * @date: 2019-07-04
  */
 public interface Tax {
-    //计算所得税
+    /**
+     * 计算所得税
+     */
     public void computerTax () ;
 }
